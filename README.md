@@ -1,6 +1,3 @@
-# knowledge_graph
-
-```html
 <p align="center">
   <a href="https://www.oracle.com/cn/java/technologies/javase/javase-jdk8-downloads.html">
     <img src="https://img.shields.io/badge/JDK-1.8.0__77-brightgreen" alt="JDK">
@@ -24,11 +21,10 @@
     <img src="https://img.shields.io/badge/RocketMQ-4.9.0-green" alt="Netty">
   </a>
 </p>
-```
+
+
 
 知识图谱：持续完善自己的技术体系。
-
-
 
 踏入计算机领域算上大学期间已经有七年时间，时常发现自己之前学习过的技能随着时间的推移，发生或多或少的遗忘，而技能的学习往往根据工作的需要而一直是零散的学习，所以一直会处于感觉自己会，实际又说不出来自己会的阶段，因此决定将自己所学所会，分 Tag 不断完善总结成体系，风格不限于底层原理、编码实现、业务设计、系统优化等等。
 
