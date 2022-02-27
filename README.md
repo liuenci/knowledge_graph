@@ -27,9 +27,13 @@
 * Kafka
 * MySQL
 
+#### Java 基础
+
+*  [Java8 HashMap 源码分析](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E5%9F%BA%E7%A1%80/Java8%20HashMap%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md) 
+
 ##### Java  并发
 
-* [线程 线程的几种状态.md](notes\Java 并发\线程 线程的几种状态.md) 
+* [线程 线程的几种状态.md](.\notes\Java 并发\线程 线程的几种状态.md) 
 * [线程池 池化思想的核心上下文.md](notes\Java 并发\线程池 池化思想的核心上下文.md) 
 
 ##### Java 虚拟机
