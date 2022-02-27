@@ -58,12 +58,12 @@
 
 #### Java 基础
 
-*  [Java8 HashMap 源码分析](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E5%9F%BA%E7%A1%80/Java8%20HashMap%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md) 
+*  [HashMap 源码分析](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E5%9F%BA%E7%A1%80/Java8%20HashMap%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md) 
 
 ##### Java  并发
 
-* [线程 线程的几种状态.md](.\notes\Java 并发\线程 线程的几种状态.md) 
-* [线程池 池化思想的核心上下文.md](notes\Java 并发\线程池 池化思想的核心上下文.md) 
+* [线程的几种状态梳理](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E5%B9%B6%E5%8F%91/%E7%BA%BF%E7%A8%8B%20%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%87%A0%E7%A7%8D%E7%8A%B6%E6%80%81.md) 
+* [深入理解 Java 线程池](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E5%B9%B6%E5%8F%91/%E7%BA%BF%E7%A8%8B%E6%B1%A0%20%E6%B1%A0%E5%8C%96%E6%80%9D%E6%83%B3%E7%9A%84%E6%A0%B8%E5%BF%83%E4%B8%8A%E4%B8%8B%E6%96%87.md) 
 
 ##### Java 虚拟机
 
