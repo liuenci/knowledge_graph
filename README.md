@@ -67,7 +67,7 @@
 
 ##### Java 虚拟机
 
-*  [Java 虚拟机的内存区域.md](notes\Java 虚拟机\Java 虚拟机的内存区域.md) 
+*  [虚拟机的内存区域](notes\Java 虚拟机\Java 虚拟机的内存区域.md) 
 
 ##### Spring
 
