@@ -67,11 +67,11 @@
 
 ##### Java 虚拟机
 
-*  [虚拟机的内存区域](notes\Java 虚拟机\Java 虚拟机的内存区域.md) 
+*  [虚拟机的内存区域](https://github.com/liuenci/knowledge_graph/blob/main/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F.md) 
 
 ##### Spring
 
-*  [Spring 深入Spring容器源码理解.md](notes\Spring\Spring 深入Spring容器源码理解.md) 
+*  [Spring 深入Spring容器源码理解.md](https://github.com/liuenci/knowledge_graph/blob/main/notes/Spring/Spring%20%E6%B7%B1%E5%85%A5Spring%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%E7%90%86%E8%A7%A3.md) 
 
 ##### MyBatis
 
